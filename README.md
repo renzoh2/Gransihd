@@ -1,1 +1,1 @@
-# Gransihd
+# Gransihd no Mirai (Future of Gransihd)

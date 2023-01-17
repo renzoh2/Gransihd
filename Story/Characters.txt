@@ -1,0 +1,45 @@
+Characters:
+
+[RACES CORES]
+[REDD] [AFFINITY TO ALL SWORDS]  [HUMAN]     
+        Single Sword/Dual Sword Mastery =>  Ren
+        Dagger Mastery => Misha
+        Broadsword Mastery => Loran
+        All Sword Mastery => Yvane Astria
+[BLUU] [AFFINITY TO ALL ELEMENT MAGIC] [SPRITES]
+        Element Magic Mastery => Rua      
+[BRON] [AFFINITY FIST] [BEASTS]
+        Mighty Fist Mastery =>  Astr    
+[GREN] [ARCHER] [ELVES]
+        Keen Eye Mastery => Arc The Forest Keeper
+[DERK] [DARK/VOID MAGIC] [DEMONS]
+        Eternity Void Mastery => Dark WanderLust (Yvane Astria)
+[WHIT] [WHITE/HOLY MAGIC] [ANGELS]
+        Holy Cure Mastery => Finne Lacus
+[VION] [GUN/ARTILLERY] [MACHINE]
+        Master of Artillery => Merme
+[YEAL] [HAMMER] [DWARVES]
+        Master Blacksmith => Brig Reondegar
+
+
+Antagonist
+[CHAOS OF VOID]
+    => Yvane Astria (Chaos of Void)
+[VOID]
+     => Dark WanderLust the Harbinger
+
+SEEKER:
+[WORLD WHISPERER]
+    [ELF] Master of Origin Magic => Alf the World Whisperer
+
+DOMAIN OF GOD:
+[GODDESS OF CREATION]   
+[GODDESS OF TIME]       Loran will unlock god body speed and boost affinity which gives ability to make grand slashes in insane speed.
+[GOD OF BRAVE]          Ren will unlock all magic affinity plus bravery potential
+[GODDESS OF ORIGIN]     Rua will unlock all magic affinity including origin magic
+[GOD OF ASCENSION]      Astr will unlock all ascended spirit and body which gives indestructible fist power
+[GOD OF GALE WIND]      Arc will unlock wind magic affinity, spatial magic to control all arrows and keen sight to the world
+[GOD OF DIMENSION]      Misha will unlock all dimension magic affinity to move spatial movements
+[GODDESS OF HOLY]       Finne Lacus will unlock favor of the goddess affinity that ascends from Holy Cure (Wounds only) to Holy All Cure (All Statuses)
+[GODDESS OF GEAR]       Merme will unlock all knowledge on machines and given ability to forge legendary (Mythical Class) Gears
+[GOD OF FORGE]          Brig will unlock all knowledge of forging and given ability to forge legendary (Mythical Class) weapons
